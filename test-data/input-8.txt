@@ -1,0 +1,3 @@
+# ALL returns failure when both stores fail.
+GT4500,1,1.0,1,1.0
+TORPEDO,ALL
