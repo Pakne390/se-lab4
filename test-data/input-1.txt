@@ -1,0 +1,4 @@
+# SINGLE first shot must use the primary store.
+# The primary store has one torpedo; the secondary store is empty.
+GT4500,1,0,0,0
+TORPEDO,SINGLE

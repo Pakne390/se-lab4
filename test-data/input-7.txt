@@ -1,0 +1,4 @@
+# ALL succeeds when one store fails or is empty and the other fires.
+# The primary store always fails; the secondary store succeeds.
+GT4500,1,1.0,1,0
+TORPEDO,ALL

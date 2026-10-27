@@ -1,0 +1,6 @@
+# SINGLE shots alternate between the two stores.
+# Each store has one torpedo, so the first two shots succeed and the third fails.
+GT4500,2,1.0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# In SINGLE mode, an empty store next in line causes the other store to be tried.
+# The primary store is empty and the secondary store has one torpedo.
+GT4500,0,0,1,0
+TORPEDO,SINGLE

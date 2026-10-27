@@ -1,0 +1,4 @@
+# If the selected SINGLE store fails, the other store must not be tried.
+# The primary store always fails while the secondary store would succeed.
+GT4500,1,1.0,1,0
+TORPEDO,SINGLE
